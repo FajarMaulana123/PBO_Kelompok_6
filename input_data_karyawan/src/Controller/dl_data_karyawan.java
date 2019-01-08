@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Kris
+ * @author Kel6
  */
 public class dl_data_karyawan {
     Connection conn = null;

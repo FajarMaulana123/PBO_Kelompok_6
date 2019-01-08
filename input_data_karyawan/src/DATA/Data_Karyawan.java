@@ -13,7 +13,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author Kris
+ * @author Kel6
  */
 public class Data_Karyawan extends javax.swing.JFrame {
 

@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Kris
+ * @author Kel6
  */
 public class Koneksi {
     private static Connection koneksi;
